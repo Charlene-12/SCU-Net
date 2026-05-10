@@ -7,6 +7,7 @@ Deep Unrolling Networks (DUNs) integrate classical optimization recovery problem
 
 If you find this project useful in your research or work, please consider citing:
 
+```bibtex
 @inproceedings{wang2026spectrally,
   title={Spectrally Adaptive Channel-aware Unrolling Network for Compressed Sensing},
   author={Wang, Xiaoyang and Gan, Hongping},
@@ -16,3 +17,4 @@ If you find this project useful in your research or work, please consider citing
   pages={10190--10198},
   year={2026}
 }
+```
